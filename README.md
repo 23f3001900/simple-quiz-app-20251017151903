@@ -1,13 +1,23 @@
 # Quiz App
 
-A simple and responsive quiz web application built with HTML, CSS, and JavaScript. This app presents multiple-choice questions one at a time and provides a final score upon completion.
+A simple and responsive quiz application built with HTML, CSS, and JavaScript.
 
 ## Features
 
--   Clean and modern design.
--   Responsive layout for mobile and desktop devices.
--   Multiple-choice questions.
--   Score tracking.
+*   Modern and engaging user interface.
+*   Gradient background and vibrant button colors.
+*   Smooth animations and transitions.
+*   Mobile-responsive design.
+*   Progress bar to track progress.
+*   Timer with visual countdown (30 seconds per question).
+*   Score display with percentage.
+*   Restart button to replay the quiz.
+
+## Technologies Used
+
+*   HTML
+*   CSS (inline)
+*   JavaScript (inline)
 
 ## Usage
 
